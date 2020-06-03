@@ -1,0 +1,27 @@
+{
+  "name": "restaurant",
+  "version": "1.0.0",
+  "description": "This is a restaurant in Daman\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D site \u001b[C\u001b[Clocated in Daman,India",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/P-star-art/restaurant-deltin.git"
+  },
+  "author": "Pranav Dherange",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/P-star-art/restaurant-deltin/issues"
+  },
+  "homepage": "https://github.com/P-star-art/restaurant-deltin#readme",
+  "dependencies": {
+    "urix": "^0.1.0"
+  },
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
